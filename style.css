@@ -1,0 +1,30 @@
+.container{
+    margin-bottom:50px;
+}
+.banngerBgColor{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.price{
+    color: #FF136F;
+}
+.buyNowBtn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    /* background-color: #FF136F; */
+}
+.cols{
+    height: 120px;
+    border-radius: 5px;
+}
+.cols img{
+    height: 90%;
+}
+.cardStyle{
+    border: none;
+    margin: 0 20px;
+}
+#subscribe{
+    height: 300px;
+    background-color: #fceae8;
+    border-radius: 10px;
+}
